@@ -9,7 +9,9 @@ Materiale per il corso di _[Benessere Digitale](https://elite.polito.it/teaching
 * [Attention Economy](./slide/P02-minacce.pdf)
 * [Introduzione al Benessere Digitale (prospettiva psicologica)](./slide/U01-intro.pdf)
 * [Stress Digitale](./slide/U02-stress-digitale.pdf)
+* [Needfinding: analisi](./slide/U03-needfinding-analisi.pdf)  
 
 
 ## Esercitazioni
 * [Journey Map](./slide/E01-journeymap.pdf)
+* [Needfinding](./slide/E02-needfinding.pdf)
