@@ -10,7 +10,9 @@ Materiale per il corso di _[Benessere Digitale](https://elite.polito.it/teaching
 * [Introduzione al Benessere Digitale (prospettiva psicologica)](./slide/U01-intro.pdf)
 * [Stress Digitale](./slide/U02-stress-digitale.pdf)
 * [Needfinding: analisi](./slide/U03-needfinding-analisi.pdf)
-* [Benessere Digitale e lavoro](./slide/U04-benessere-digitale-e-lavoro.pdf)  
+* [Benessere Digitale e lavoro](./slide/U04-benessere-digitale-e-lavoro.pdf)
+	* [Ancore di carriera](./slide/U04b-ancore-di-carriera.pdf)  
+	* [Industria 4.0](./slide/U04c-benessere-digitale-e-industria-4.0.pdf)
 * [Differenze Individuali](./slide/U05-differenze-individuali.pdf)  
 
 
