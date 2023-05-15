@@ -15,7 +15,8 @@ Materiale per il corso di _[Benessere Digitale](https://elite.polito.it/teaching
 	* [Industria 4.0](./slide/U04c-benessere-digitale-e-industria-4.0.pdf)
 * [Differenze Individuali](./slide/U05-differenze-individuali.pdf)
 * [Strategie Informatiche per il Benessere Digitale](./slide/P03-strategie.pdf)
-* [Strategie Psicologiche per il Benessere Digitale](./slide/U06-strategie-per-il-benessere.pdf)  
+* [Strategie Psicologiche per il Benessere Digitale](./slide/U06-strategie-per-il-benessere.pdf)
+* [Metodi di prototipazione](./slide/P04-prototipazione.pdf)  
 
 
 
