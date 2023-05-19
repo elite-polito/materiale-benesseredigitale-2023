@@ -23,3 +23,4 @@ Materiale per il corso di _[Benessere Digitale](https://elite.polito.it/teaching
 ## Esercitazioni
 * [Journey Map](./slide/E01-journeymap.pdf)
 * [Needfinding](./slide/E02-needfinding.pdf)
+* [Prototipo a bassa fedeltà](./slide/E03-prototipo-bassa-fedelta.pdf)
